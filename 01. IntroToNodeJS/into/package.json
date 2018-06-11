@@ -1,0 +1,8 @@
+{
+  "name": "init-node",
+  "version": "0.0.1",
+  "description": "HW",
+  "main": "index.js",
+  "author": "DK",
+  "license": "ISC"
+}
