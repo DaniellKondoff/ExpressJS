@@ -1,0 +1,12 @@
+{
+  "name": "web-server",
+  "version": "0.0.1",
+  "description": "demo",
+  "main": "index.js",
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "DK",
+  "license": "MIT"
+}
